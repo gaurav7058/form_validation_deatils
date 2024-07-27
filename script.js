@@ -16,7 +16,7 @@ email.addEventListener("input",()=>{
 })
 password.addEventListener("input",()=>{
     let password_err=document.getElementById("password_err");
-    if(password.value.length<8 ){
+    if(password.value.length<=8 ){
         password_err.textContent="Make sure password is more than 8 charactor"
         password_err.style.color="red"
     }
