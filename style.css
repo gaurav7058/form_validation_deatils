@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #333;
+}
+.form_container{
+    width: 40%;
+    background-color: white;
+    height: 400px;
+    margin: auto;
+    margin-top: 10rem;
+}
+.form-item{
+    padding-left: 35px;
+    padding-top: 16px;
+    
+}
+.form-element{
+
+}
+.form-input{
+    margin-top: 14px;
+    margin-bottom: 12px;
+    width: 73%;
+    border-radius: 6px;
+    padding: 11px;
+    border: 2px solid black;
+}
+button{
+    margin-top: 52px;
+  width: 24%;
+  background-color: white;
+  padding: 6px;
+  border-radius: 6px;
+  border: 2px solid black;
+}
